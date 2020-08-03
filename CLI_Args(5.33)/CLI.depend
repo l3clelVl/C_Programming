@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1596164962 source:c:\users\kryptaknight\desktop\c_test\cli\main.c
+	<stdio.h>
+	<stdlib.h>
+

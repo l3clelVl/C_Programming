@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1595902221 source:c:\users\kryptaknight\desktop\c_test\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1595827345 source:c:\users\kryptaknight\desktop\c_test\test\test.c
+	<stdio.h>
+
